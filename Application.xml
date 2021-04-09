@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<application name="ItSupport 20210409.012850" description="" >
+	<parfile name="ITSupport_Final_1_dbconfig.jar" order="1" dbconfig="true" />
+	<sarfile name="ITSupport_Final_1_schema.jar" order="2"/>
+	<parfile name="ITSupport_Final_1_rules.jar" order="3"/>
+</application>

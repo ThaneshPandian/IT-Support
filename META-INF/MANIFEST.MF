@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-05-02
+Pega-Codeset-Version: 06-01-01
+ArtifactName: ItSupport
+Synchronizable: false
+ArtifactVersion: 20210409.012850
+Type: Product
+Product-Creation-Date: 2021-Apr-09 00:00:00
+Version: 20210409.012850
+PRPC-Engine: 8.5.1 PRPC-8.5.1-208 ()
+Operator: vinay
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: ItSupport
+Archive-Type: PegaArchive
+Export-Date: 2021-Apr-09 05:32:12
+Pega-Codeset-Name: Customer
+Instance-Count: 1528
+
+Name: FileMetadata
+
